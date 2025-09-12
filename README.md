@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Pavel!
 
-<!--
-**KQraze/KQraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend developer passionate about building user-friendly and secure web applications.  
+🚀 I love working with **Vue, TypeScript**, and modern web development stack.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,html,css,vite,react,laravel,php,mysql,postgres,git,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KQraze&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KQraze&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KQraze&theme=tokyonight&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+## 📅 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KQraze&theme=tokyo-night" alt="activity-graph"/>
+</p>
+
+---
+
+✨ Always open to interesting projects and new ideas!
