@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pavel!
 
-💻 Frontend developer passionate about building user-friendly and secure web applications.  
-🚀 I love working with **Vue, TypeScript**, and modern web development stack.  
+💻 Fullstack developer.  
+🚀 I love working with modern web development stack.  
 
 ---
 
