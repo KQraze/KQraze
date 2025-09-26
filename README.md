@@ -18,13 +18,13 @@
 - **Frontend Developer** @ [Contractis](https://contractis.ru) (2024) – Nuxt 3, TypeScript, Tailwind  
 - **Frontend Developer** @ [Lytko](https://lytko.com) (2024–2025) – Vue 3, SCSS  
 - **Frontend Developer** @ [Hamumaby](https://hamumaby.ru) (2025) – Vue 3, Tailwind  
-- **Frontend Developer** @ [Iceberg](https://iceberg.su) (2025) – Nuxt 3, TypeScript  
-- **Freelance Frontend Developer** – Regional education portal (React, TypeScript, Ant Design, React PDF) (2025)  
+- **Fullstack Developer** @ [Iceberg](https://iceberg.su) (2025) – Nuxt 3, TypeScript  
+- **Freelance Fullstack Developer** – Regional education portal (React, TypeScript, Ant Design, React PDF) (2025)  
 
 ---
 
 ## 👨‍💻 Leadership & Mentorship
-- Led frontend teams in [Taskie](https://taskie.ru) and [I Want to Help](https://яхочупомочь.рф)  
+- Led frontend teams in [Taskie](https://taskie.ru) and [Я хочу помочь](https://яхочупомочь.рф)  
 - Designed and implemented scalable **Feature-Sliced Design (FSD)** architecture for Vue applications  
 - Mentored teammates on **best practices** with Vue.js, TypeScript, and Pinia  
 - Organized workflows, coding standards, and project structure conventions  
