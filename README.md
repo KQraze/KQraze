@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pavel Eliseev  
 
-💻 Fullstack Developer from Tomsk, Russia  
-🚀 Passionate about modern web technologies and building scalable applications  
+💻 Fullstack Developer & Team Lead from Tomsk, Russia  
+🚀 Passionate about modern web technologies, scalable architecture, and building strong engineering teams  
 📬 Reach me: [pavel.eliseev061@gmail.com](mailto:pavel.eliseev061@gmail.com) | [Telegram](https://t.me/KQraze)  
 
 ---
@@ -13,24 +13,42 @@
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 - **Frontend Developer** @ [Profteam](https://profteam.su) (2023) – Vue 3, Tailwind, Pinia  
 - **Frontend Developer** @ [Contractis](https://contractis.ru) (2024) – Nuxt 3, TypeScript, Tailwind  
 - **Frontend Developer** @ [Lytko](https://lytko.com) (2024–2025) – Vue 3, SCSS  
 - **Frontend Developer** @ [Hamumaby](https://hamumaby.ru) (2025) – Vue 3, Tailwind  
-- **Frontend Developer** @ [Айсберг](https://iceberg.su) (2025) – Nuxt 3, TypeScript  
-- **Frontend Developer (Freelance)** – Доп. образование портал (React, TypeScript, AntD, React PDF) (2025)  
+- **Frontend Developer** @ [Iceberg](https://iceberg.su) (2025) – Nuxt 3, TypeScript  
+- **Freelance Frontend Developer** – Regional education portal (React, TypeScript, Ant Design, React PDF) (2025)  
 
 ---
 
-## 🚀 Own Projects
-- **SecureScan** – Web service for web app security analysis (Vue 3 + Laravel, Semgrep, Nikto, SSL Checker, WafW00f)  
-- **Парта героя** ([link](https://thesameagain.ru)) – Educational platform (Vue 3, Tailwind, FSD architecture)  
+## 👨‍💻 Leadership & Mentorship
+- Led frontend teams in [Taskie](https://taskie.ru) and [I Want to Help](https://яхочупомочь.рф)  
+- Designed and implemented scalable **Feature-Sliced Design (FSD)** architecture for Vue applications  
+- Mentored teammates on **best practices** with Vue.js, TypeScript, and Pinia  
+- Organized workflows, coding standards, and project structure conventions  
+- Performed **code reviews** and PR validation to ensure code quality and consistency  
+
+---
+
+## 🚀 Personal Projects
+- **SecureScan** – Web security analysis service (Vue 3 + Laravel, Semgrep, Nikto, SSL Checker, WafW00f)  
+- **Hero’s Desk** ([link](https://thesameagain.ru)) – Educational platform with responsive design and FSD architecture  
 
 ---
 
 ## 🏆 Achievements
-- 🥈 **2nd place** – Regional stage of "Профессионалы 2025" (Web Technologies)  
+- 🥈 **2nd place** – Regional stage of "Professionals 2025" (Web Technologies)  
+
+---
+
+## 🤝 Soft Skills
+- **Leadership** – Experienced in guiding teams, setting priorities, and ensuring delivery  
+- **Mentorship** – Coaching junior developers and sharing architectural expertise  
+- **Communication** – Clear and effective collaboration in cross-functional teams  
+- **Problem-Solving** – Strong analytical thinking and ability to propose scalable solutions  
+- **Adaptability** – Quickly learning new technologies and adjusting to project needs  
 
 ---
 
@@ -56,4 +74,4 @@
 
 ---
 
-✨ Always open to new challenges and interesting projects!
+✨ Always open to new challenges, impactful projects, and leadership opportunities!
