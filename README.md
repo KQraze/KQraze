@@ -34,7 +34,7 @@
 
 ## 🚀 Personal Projects
 - **SecureScan** – Web security analysis service (Vue 3 + Laravel, Semgrep, Nikto, SSL Checker, WafW00f)  
-- **Hero’s Desk** ([link](https://thesameagain.ru)) – Educational platform with responsive design and FSD architecture  
+- **Парта героя** ([link](https://thesameagain.ru)) – Educational platform with responsive design and FSD architecture  
 
 ---
 
