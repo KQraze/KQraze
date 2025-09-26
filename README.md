@@ -1,14 +1,36 @@
-# 👋 Hi, I'm Pavel!
+# 👋 Hi, I'm Pavel Eliseev  
 
-💻 Fullstack developer.  
-🚀 I love working with modern web development stack.  
+💻 Fullstack Developer from Tomsk, Russia  
+🚀 Passionate about modern web technologies and building scalable applications  
+📬 Reach me: [pavel.eliseev061@gmail.com](mailto:pavel.eliseev061@gmail.com) | [Telegram](https://t.me/KQraze)  
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,html,css,vite,react,laravel,php,mysql,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,ts,js,tailwind,html,css,php,laravel,nest,postgres,mysql,vite,git,docker,linux,figma" />
 </p>
+
+---
+
+## 💼 Experience
+- **Frontend Developer** @ [Profteam](https://profteam.su) (2023) – Vue 3, Tailwind, Pinia  
+- **Frontend Developer** @ [Contractis](https://contractis.ru) (2024) – Nuxt 3, TypeScript, Tailwind  
+- **Frontend Developer** @ [Lytko](https://lytko.com) (2024–2025) – Vue 3, SCSS  
+- **Frontend Developer** @ [Hamumaby](https://hamumaby.ru) (2025) – Vue 3, Tailwind  
+- **Frontend Developer** @ [Айсберг](https://iceberg.su) (2025) – Nuxt 3, TypeScript  
+- **Frontend Developer (Freelance)** – Доп. образование портал (React, TypeScript, AntD, React PDF) (2025)  
+
+---
+
+## 🚀 Own Projects
+- **SecureScan** – Web service for web app security analysis (Vue 3 + Laravel, Semgrep, Nikto, SSL Checker, WafW00f)  
+- **Парта героя** ([link](https://thesameagain.ru)) – Educational platform (Vue 3, Tailwind, FSD architecture)  
+
+---
+
+## 🏆 Achievements
+- 🥈 **2nd place** – Regional stage of "Профессионалы 2025" (Web Technologies)  
 
 ---
 
@@ -20,7 +42,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KQraze&theme=tokyonight&row=1&column=6" alt="trophies"/>
 </p>
@@ -34,4 +56,4 @@
 
 ---
 
-✨ Always open to interesting projects and new ideas!
+✨ Always open to new challenges and interesting projects!
